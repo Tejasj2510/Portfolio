@@ -268,7 +268,7 @@ export const projects = [
       ""
     ],
     category: "web app",
-    github: "",
+    github: "https://github.com/Tejasj2510/Fashion-Fusion.git",
     webapp: "",
   },
   {
@@ -281,11 +281,9 @@ export const projects = [
       "https://images2.imgbox.com/d7/c6/ieGmOkUw_o.png",
     tags: ["React Js", "HTML", "CSS", "Imgbox", "BootStrap","Netlify"],
     category: "web app",
-    github: "",
+    github: "https://github.com/Tejasj2510/Portfolio.git",
     webapp: "",
-    member: [
-    
-    ],
+   
   },
 
 ];
